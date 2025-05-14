@@ -8,3 +8,7 @@ torch
 requests
 Pillow
 pymongo
+python-dotenv
+torchvision
+pydantic
+
